@@ -1,6 +1,6 @@
 const BusinessDetails = () => {
   return (
-    <div className="flex xl:w-[40%] max-xl:w-full mt-20 flex-col p-3 border-2 border-gray-300 rounded-[20px]">
+    <div className="flex xl:w-[40%] max-xl:w-full  flex-col p-3 border-2 border-gray-300 rounded-[20px]">
       <h1 className="text-2xl font-bold mb-6 h-[5%]">Business Details</h1>
       <form action="" className="flex flex-col h-[95%] justify-between">
         <div>
