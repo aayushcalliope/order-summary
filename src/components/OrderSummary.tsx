@@ -80,9 +80,9 @@ function OrderSummary() {
     }
   ];
   return (
-    <div className="flex xl:flex-row max-xl:flex-col h-screen mb-4 m-2 xl:space-x-2 max-xl:space-y-4">
+    <div className="flex xl:flex-row max-xl:flex-col h-screen mx-2 xl:space-x-2 max-xl:space-y-4">
       <BusinessDetails />
-      <div className="flex flex-row  xl:w-[60%] max-sm:flex-col max-xl:w-full h-full border border-gray-300 rounded-[20px]">
+      <div className="flex flex-row xl:w-[60%] max-sm:flex-col max-xl:w-full h-full border border-gray-300 rounded-[20px]">
         <div className="flex flex-col w-[50%] max-sm:w-full h-full">
           <div className="h-[30%]">
             <div className="text-left p-3 ">
