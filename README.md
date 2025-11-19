@@ -8,15 +8,15 @@ Currently working on a **reactive Order Summary component** and exploring modern
 
 ## 🧰 Languages & Tools
 
-<p align="left">
+<p align="left"  style="margin-right:10px">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" >
-    <img  style="margin-right: 25px; margin-bottom: 20px;"
+    <img 
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
       alt="css3" width="40" height="40"/>
   </a>
 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer" >
-    <img  style="margin-right: 25px; margin-bottom: 20px;"
+    <img 
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" 
       alt="figma" width="40" height="40"/>
   </a>
